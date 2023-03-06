@@ -16,7 +16,13 @@ In addition, I have been revising the actual TAP centre to compensate for the di
 
 Part of the issue I've seen with the TAP center part, is that during assembly you are performing a preliminary tensioning of the belts, when you bolt the center to the rail carriage. If the teeth of the 2GT belt are even partially engaged with the centre teeth, and you pull the belts through to tension them, you are going to damage the teeth on the center. I have experienced this failure, and the resulting belt slip that comes with it during tensioning or when printing.
 
-If you keep this in mind, you can assemble this without damaging the center. Here is what I recommend. Install both belts on one side, thread them through, all the way around, and make sure they have engaged the teeth fully. At this stage you should have the belts on one side fully seured, so they will not move. Now, carefully thread the other belts into the centre on the opposite side, but while doing this, make extra effort to prevent the 2GT belt from engaging the teeth on the center, until the belts are tensioned as much as reasonable, and even. At that point engage the teeth, and carefully hold the center so the belts cannot move. At this point, bolt the centre to the carriage taking extra care to not move the 2 unsecured belts. Once you've bolted the center down, you can then derack and tension the belts. Do this now, not later. If your belts are going to slip, it's most likely going to happen now.
+If you keep this in mind, you can assemble this without damaging the center. Here is what I recommend: 
+1. Install both belts on one side, thread them through, all the way through the securing tabs, and make sure they have engaged the teeth fully. At this stage you should have the belts on one side fully seured, so they will not move. 
+2. Now, carefully thread the other belts into the centre on the opposite side, but while doing this, take extra caution to prevent the 2GT belt from engaging the teeth on the center, until the belts are tensioned as much as reasonable and evenly tensioned. 
+3. Engage the teeth, and carefully hold the center so the belts cannot move. 
+4. Bolt the centre to the carriage, taking extra care to not move the 2 unsecured belts. Evenly snug, then tighten the bolts to avoid excess stress on the part.
+5. Thread the belt through the securing tabs to fully secure them.
+6. Derack and tension the belts. Do this now, not later. If your belts are going to slip, it's most likely going to happen now.
 
 From my perspective, about 50% of the issue is during assembly, and damaging those teeth. The other half is all of those MGN12H carriages with endcaps that are not flush with the carriage itself.
 
